@@ -132,7 +132,7 @@ Personal use only
 
 ## 🧪 DEMO
 
-The demo version includes **only one capture mode** and is provided for evaluation purposes.
+The demo version includes **only one capture mode** (it's the worst due to the rotation cube block) and is provided for evaluation purposes.
 
 ⚠️ Please note: in the demo version, **capture will not automatically resume** if:
 - You switch projects in Fusion and then return.
