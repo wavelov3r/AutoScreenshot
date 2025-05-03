@@ -130,6 +130,32 @@ MIT License
 
 ---
 
+## 🧪 DEMO
+
+The demo version includes **only one capture mode** and is provided for evaluation purposes.
+
+⚠️ Please note: in the demo version, **capture will not automatically resume** if:
+- You switch projects in Fusion and then return.
+- You minimize Fusion and later bring it back to focus.
+
+These limitations are removed in the full version.
+
+---
+
+## 🔓 FULL VERSION
+
+Unlock the full potential of this tool for **just €20**.
+
+✅ All capture modes  
+✅ Automatic resume after app/project focus changes  
+✅ Support and updates included
+
+💳 Pay via PayPal: [https://paypal.me/wavelov3r](https://paypal.me/wavelov3r)
+
+📬 For any questions or to receive the full version after payment, contact me on Telegram: [@wavelov3r](https://t.me/wavelov3r)
+
+---
+
 ## 👨‍💻 Author
 
 Developed for designers and engineers who want to document their 3D workflows.
