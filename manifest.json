@@ -1,0 +1,12 @@
+{
+    "id": "AutoScreenshot",
+    "name": "Auto Screenshot",
+    "version": "1.0.0",
+    "description": "Takes screenshots at regular intervals.",
+    "author": "wavelov3r",
+    "supportedOS": "windows|mac",
+    "runtime": "python",
+    "api": "1.0.0",
+    "main": "AutoScreenshot.py",
+    "autostart": false
+}
