@@ -32,7 +32,7 @@
 
 1. Download the entire zip folder of the package
 2. go to (Win + r, then paste and hit enter): ```text %APPDATA%\Autodesk\Autodesk Fusion 360\API\AddIns``` 
-3. Extract the package in the folder, so that the manifest.json is in "%APPDATA%\Autodesk\Autodesk Fusion 360\API\AddIns\Autoscreenshots\manifest.json"
+3. Extract the package in the folder and delete the -main suffix from the dirname; so the manifest.json is in "%APPDATA%\Autodesk\Autodesk Fusion 360\API\AddIns\Autoscreenshots\manifest.json"
 4. Reload Fusion360
 
 You can now use `AutoScreenshots` from Fusion360 panels, in Tools-> Addins
