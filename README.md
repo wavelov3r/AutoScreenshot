@@ -26,6 +26,27 @@
 
 ---
 
+## 📷 Preview
+
+Visualizza alcune schermate dell'applicazione:
+
+<p align="center">
+  <a href="readme_images/1.png" target="_blank">
+    <img src="readme_images/1.png" alt="Addin Icon location" width="250"/>
+  </a>
+  <a href="readme_images/2.png" target="_blank">
+    <img src="readme_images/2.png" alt="Pre-Capture settings" width="250"/>
+  </a>
+  <a href="readme_images/3.png" target="_blank">
+    <img src="readme_images/3.png" alt="Capture alert (yellow if paused)" width="250"/>
+  </a>
+  <a href="readme_images/4.png" target="_blank">
+    <img src="readme_images/4.png" alt="Stop capture screen" width="250"/>
+  </a>
+</p>
+
+
+
 ## 🧪 Installation
 
 ### 1. Install AutoScreenshots for Fusion360 on windows
