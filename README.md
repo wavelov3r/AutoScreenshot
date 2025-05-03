@@ -28,40 +28,45 @@
 
 ## 📷 Preview
 
+<div align="center">
+
 <table>
   <tr>
-    <td align="center">
+    <td align="center" valign="bottom" width="320">
       <a href="readme_images/1.png" target="_blank">
-        <img src="readme_images/1.png" alt="Addin Icon location" width="250"/>
+        <img src="readme_images/1.png" alt="Addin Icon location" width="300"/>
       </a>
       <br/>
       <sub>Addin Icon location</sub>
     </td>
-    <td align="center">
+    <td align="center" valign="bottom" width="320">
       <a href="readme_images/2.png" target="_blank">
-        <img src="readme_images/2.png" alt="Pre-Capture settings" width="250"/>
+        <img src="readme_images/2.png" alt="Pre-Capture settings" width="300"/>
       </a>
       <br/>
       <sub>Pre-Capture settings</sub>
     </td>
   </tr>
   <tr>
-    <td align="center">
+    <td align="center" valign="bottom" width="320">
       <a href="readme_images/3.png" target="_blank">
-        <img src="readme_images/3.png" alt="Capture alert (yellow if paused)" width="250"/>
+        <img src="readme_images/3.png" alt="Capture alert (yellow if paused)" width="300"/>
       </a>
       <br/>
       <sub>Capture alert (yellow if paused)</sub>
     </td>
-    <td align="center">
+    <td align="center" valign="bottom" width="320">
       <a href="readme_images/4.png" target="_blank">
-        <img src="readme_images/4.png" alt="Stop capture screen" width="250"/>
+        <img src="readme_images/4.png" alt="Stop capture screen" width="300"/>
       </a>
       <br/>
       <sub>Stop capture screen</sub>
     </td>
   </tr>
 </table>
+
+</div>
+
 
 
 
