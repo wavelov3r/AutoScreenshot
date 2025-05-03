@@ -111,7 +111,7 @@ Captured images will be stored in the `output` folder inside the add-in director
    - Click OK and restart the terminal or your PC.
 ```
 
-You can now use `ffmpeg` from any terminal or command prompt.
+You can now use `ffmpeg` from any terminal or inside the Fusion360 Addin.
 
 
 
