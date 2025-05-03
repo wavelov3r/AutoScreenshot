@@ -88,13 +88,5 @@ MIT License
 ## 👨‍💻 Author
 
 Developed for designers and engineers who want to document their 3D workflows.
-Buy me a good beer! 
-<form action="https://www.paypal.com/donate" method="post" target="_top">
-<input type="hidden" name="business" value="FLZVTMNJVW9D2" />
-<input type="hidden" name="no_recurring" value="0" />
-<input type="hidden" name="item_name" value="Fusion360 AutoScreenshots contribute" />
-<input type="hidden" name="currency_code" value="EUR" />
-<input type="image" src="https://www.paypalobjects.com/en_US/IT/i/btn/btn_donateCC_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
-<img alt="" border="0" src="https://www.paypal.com/en_IT/i/scr/pixel.gif" width="1" height="1" />
-</form>
-
+Let me drink a beer! 🍺  
+[![Donate](https://www.paypalobjects.com/en_US/IT/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/donate?business=FLZVTMNJVW9D2&no_recurring=0&item_name=Fusion360+AutoScreenshots+contribute&currency_code=EUR)
