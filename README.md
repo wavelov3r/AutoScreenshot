@@ -100,14 +100,14 @@ Captured images will be stored in the `output` folder inside the add-in director
 ### 1. Install FFmpeg on Windows
 
 1. Download FFmpeg from [https://ffmpeg.org/download.html](https://ffmpeg.org/download.html).
-2. Extract the zip to `C:\\ffmpeg`.
-3. Add `C:\\ffmpeg\\bin` to your system `PATH`:
+2. Extract the zip to `C:\ffmpeg`.
+3. Add `C:\ffmpeg\bin` to your system `PATH`:
 
 ```text
    - Press Win + R, type sysdm.cpl, and press Enter.
    - Go to Advanced > Environment Variables.
    - Under System variables, find Path, click Edit, then New, and add:
-     C:\\ffmpeg\\bin
+     C:\ffmpeg\bin
    - Click OK and restart the terminal or your PC.
 ```
 
