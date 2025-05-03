@@ -126,7 +126,7 @@ You can now use `ffmpeg` from any terminal or inside the Fusion360 Addin.
 
 ## 📄 License
 
-MIT License
+Personal use only
 
 ---
 
