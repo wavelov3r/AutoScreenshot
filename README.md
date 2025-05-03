@@ -91,7 +91,7 @@ You can now use `AutoScreenshots` from Fusion360 panels, in Tools-> Addins
 3. Click **Capture** to start screenshot recording.
 4. When you're done, re-open the command panel and click **Stop** to end the session.
 
-Captured images will be stored in the `output` folder inside the add-in directory.
+Captured images will be stored in the `User Images` folder inside the Fusion360 Autoscreenshots directory.
 
 ---
 
