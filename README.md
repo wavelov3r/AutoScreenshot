@@ -153,7 +153,7 @@ Unlock the full potential of this tool for **just €20**.
 💳 Pay via PayPal:
 [![Donate](https://www.paypalobjects.com/en_US/IT/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/donate/?business=FLZVTMNJVW9D2&amount=20&no_recurring=1&item_name=AutoScreenshots+Full+for+Fusion360&currency_code=EUR)
 
-📬 For any questions or to receive the full version after payment, contact me on Telegram: [@ w a w e l o v 3 r]
+📬 For any questions or to receive the full version after payment, contact me on Telegram: [@ w a v e l o v 3 r]
 
 ---
 
