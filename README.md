@@ -150,14 +150,14 @@ Unlock the full potential of this tool for **just €20**.
 ✅ Automatic resume after app/project focus changes  
 ✅ Support and updates included
 
-💳 Pay via PayPal: [https://paypal.me/wavelov3r](https://paypal.me/wavelov3r)
+💳 Pay via PayPal:
+[![Donate](https://www.paypalobjects.com/en_US/IT/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/donate/?business=FLZVTMNJVW9D2&amount=20&no_recurring=1&item_name=AutoScreenshots+Full+for+Fusion360&currency_code=EUR)
 
-📬 For any questions or to receive the full version after payment, contact me on Telegram: [@wavelov3r](https://t.me/wavelov3r)
+📬 For any questions or to receive the full version after payment, contact me on Telegram: [@ w a w e l o v 3 r]
 
 ---
 
 ## 👨‍💻 Author
 
 Developed for designers and engineers who want to document their 3D workflows.
-Let me drink a beer! 🍺  
-[![Donate](https://www.paypalobjects.com/en_US/IT/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/donate?business=FLZVTMNJVW9D2&no_recurring=0&item_name=Fusion360+AutoScreenshots+contribute&currency_code=EUR)
+
